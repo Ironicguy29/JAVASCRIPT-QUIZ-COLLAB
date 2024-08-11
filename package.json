@@ -1,0 +1,28 @@
+{
+  "name": "collab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ironicguy29/javascript-quiz-collab.git"
+  },
+  "keywords": [
+    "07-08-2024"
+  ],
+  "author": "soham,sagar,deep",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ironicguy29/javascript-quiz-collab/issues"
+  },
+  "homepage": "https://github.com/Ironicguy29/javascript-quiz-collab#readme",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "method-override": "^3.0.0",
+    "mongoose": "^8.5.2"
+  }
+}
